@@ -1,6 +1,7 @@
 # weather
 
-> My training project
+> My training project.
+> I'm using the basic of HTML and CSS and doing request for an API.
 
 ## Build Setup
 
