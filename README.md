@@ -1,6 +1,7 @@
 # weather
 
 > My training project.
+> 
 > I'm using basic HTML and CSS and requesting an API to bring information about the weather of the place searched by the user.
 
 ## Build Setup
