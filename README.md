@@ -1,6 +1,6 @@
 # weather
 
-> A Vue.js project
+> My training project
 
 ## Build Setup
 
