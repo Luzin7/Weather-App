@@ -1,5 +1,5 @@
 <template>
-  <div id="app" :class="typeof weather.main != 'undefined' && weather.main.temp > 16 ?
+  <div id="app" :class="typeof weather.main != 'undefined' && weather.main.temp > 20 ?
     'warm' : ''">
     <main>
       <div class="search-box">
@@ -87,6 +87,10 @@ body{}
 }
 
 #app.warm{
+  background-color: #ff9f96;
+}
+
+#app.caution{
   background-color: #ff9f96;
 }
 
