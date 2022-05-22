@@ -1,4 +1,4 @@
-name: deploy Vue-Weather-App
+name: deploy
 
 permissions:
   contents: write
